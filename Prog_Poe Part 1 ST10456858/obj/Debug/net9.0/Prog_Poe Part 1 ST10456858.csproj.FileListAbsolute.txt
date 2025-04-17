@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\obj\Debug\net9.0\Prog_Poe Part 1 ST10456858.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\obj\Debug\net9.0\Prog_Poe Part 1 ST10456858.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\obj\Debug\net9.0\Prog_Poe Part 1 ST10456858.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\obj\Debug\net9.0\Prog_Poe Part 1 ST10456858.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\bin\Debug\net9.0\Prog_Poe Part 1 ST10456858.exe
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\bin\Debug\net9.0\Prog_Poe Part 1 ST10456858.deps.json
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\bin\Debug\net9.0\Prog_Poe Part 1 ST10456858.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\bin\Debug\net9.0\Prog_Poe Part 1 ST10456858.dll
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\bin\Debug\net9.0\Prog_Poe Part 1 ST10456858.pdb
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\obj\Debug\net9.0\Prog_Poe Part 1 ST10456858.dll
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\obj\Debug\net9.0\refint\Prog_Poe Part 1 ST10456858.dll
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\obj\Debug\net9.0\Prog_Poe Part 1 ST10456858.pdb
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\obj\Debug\net9.0\Prog_Poe Part 1 ST10456858.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\Prog_Poe Part 1 ST10456858\obj\Debug\net9.0\ref\Prog_Poe Part 1 ST10456858.dll
